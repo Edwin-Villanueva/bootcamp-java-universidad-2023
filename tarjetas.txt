@@ -1,3 +1,5 @@
 MASTERCARD
 visa
 amex
+rapipago
+pagofacil
